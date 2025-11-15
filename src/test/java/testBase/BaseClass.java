@@ -23,6 +23,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 public class BaseClass {
@@ -34,7 +35,7 @@ public static WebDriver driver;
 	
 	@BeforeClass(groups= {"Sanity","Regression","Master"})
 	@Parameters({"os","browser"})
-	public void setup(String os, String br) throws IOException, InterruptedException
+	public void setup(@Optional("windows")String os,@Optional("chrome") String br) throws IOException, InterruptedException
 	{
 		//Loading config.properties file
 		FileReader file=new FileReader("./src//test//resources//config.properties");
