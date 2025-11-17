@@ -400,3 +400,110 @@
 13:27:29.695 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest ******
 13:27:38.164 [main] INFO  testCases.TC002_LoginTest - ******Staring TC002_LoginTest***** 
 13:27:42.159 [main] INFO  testCases.TC002_LoginTest - ******Finished TC002_LoginTest***** 
+13:52:54.571 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest ******
+13:52:55.224 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Account Link 
+13:52:57.874 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:52:57.887 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details....
+13:53:05.625 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+13:53:05.779 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest ******
+13:53:19.161 [main] INFO  testCases.TC002_LoginTest - ******Staring TC002_LoginTest***** 
+13:53:22.992 [main] INFO  testCases.TC002_LoginTest - ******Finished TC002_LoginTest***** 
+14:02:10.006 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest ******
+14:02:10.370 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Account Link 
+14:02:12.031 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:02:12.046 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details....
+14:02:20.713 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+14:02:20.867 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest ******
+14:02:34.710 [main] INFO  testCases.TC002_LoginTest - ******Staring TC002_LoginTest***** 
+14:02:38.931 [main] INFO  testCases.TC002_LoginTest - ******Finished TC002_LoginTest***** 
+14:48:45.244 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+14:53:21.994 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\testng.xml"
+14:53:23.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\testng.xml
+
+14:53:56.207 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+14:56:28.108 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+14:57:22.767 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+14:57:23.658 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml
+
+14:57:34.993 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:00:19.364 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\AppData\Local\Temp\testng-eclipse--1013761762\testng-customsuite.xml"
+15:00:20.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:00:20.119 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+15:00:20.125 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.130 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.130 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+15:00:20.177 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+15:00:20.181 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:00:20.182 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.184 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.184 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.186 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.186 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.191 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.191 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.193 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.193 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.207 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.208 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:00:20.213 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.213 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.214 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:00:20.214 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:00:20.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\AppData\Local\Temp\testng-eclipse--1013761762\testng-customsuite.xml
+
+15:00:20.299 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+15:00:31.747 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:00:43.656 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5b6e8f77: 342 ms
+15:00:43.704 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d01dfa5: 47 ms
+15:00:43.737 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@469d003c: 31 ms
+15:00:43.759 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2234078: 22 ms
+15:00:43.782 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2e1792e7: 23 ms
+15:00:43.783 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6719a5b8: 0 ms
+15:01:03.308 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+15:01:04.232 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml
+
+15:01:16.501 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:07:31.952 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+15:07:33.597 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml
+
+15:07:50.332 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:10:49.338 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+15:10:50.460 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml
+
+15:11:03.419 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:15:39.092 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+15:15:39.991 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml
+
+15:15:51.589 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:19:49.516 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+15:19:50.405 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml
+
+15:20:03.500 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:21:24.727 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+15:21:25.645 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml
+
+15:21:38.431 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:21:41.081 [main] INFO  testCases.TC004_SearchProductTest -  Finished TC004_SearchProductTest 
+15:16:52.606 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml"
+15:16:54.314 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anoop\eclipse-workspace\Opencart4.1.0.3\Master.xml
+
+15:17:46.071 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+15:17:49.935 [main] INFO  testCases.TC004_SearchProductTest -  Finished TC004_SearchProductTest 
